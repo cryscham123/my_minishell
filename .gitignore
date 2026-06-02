@@ -1,0 +1,8 @@
+minishell
+*.o
+*.dSYM/
+.cache/
+tmp/
+tests/tmp/
+*.log
+*.out
